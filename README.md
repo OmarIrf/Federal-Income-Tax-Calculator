@@ -1,4 +1,4 @@
-<img width="576" height="416" alt="image" src="https://github.com/user-attachments/assets/d0812a15-82fe-4972-950c-88f375ebb81d" />
+                     <img width="576" height="416" alt="image" src="https://github.com/user-attachments/assets/d0812a15-82fe-4972-950c-88f375ebb81d" />
 
 
 # 💰 Federal Income Tax Calculator – C++ Console Application
