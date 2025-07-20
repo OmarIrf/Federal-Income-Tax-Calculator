@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/nBL64iG.png" width="100%" alt="Federal Income Tax Calculator Banner"/>
-</p>
+<img width="576" height="416" alt="image" src="https://github.com/user-attachments/assets/d0812a15-82fe-4972-950c-88f375ebb81d" />
+
 
 # 💰 Federal Income Tax Calculator – C++ Console Application
 
