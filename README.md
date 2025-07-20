@@ -33,4 +33,5 @@ It features a clean, interactive interface and basic input validation to simulat
 
 ## 📎 Example Output
 
+<img width="708" height="640" alt="image" src="https://github.com/user-attachments/assets/a371adf1-f82c-40ec-96a8-e22f2854719a" />
 
