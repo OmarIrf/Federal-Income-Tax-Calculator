@@ -35,3 +35,12 @@ It features a clean, interactive interface and basic input validation to simulat
 
 <img width="803" height="640" alt="image" src="https://github.com/user-attachments/assets/a371adf1-f82c-40ec-96a8-e22f2854719a" />
 
+---
+
+## 🔧 Build
+
+1. Ensure you have a C++ compiler installed (e.g. `g++`).
+2. Run `make` to build the executable `taxcalc`.
+3. Execute the application with `./taxcalc`.
+
+

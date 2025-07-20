@@ -1,0 +1,6 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+taxcalc
+
